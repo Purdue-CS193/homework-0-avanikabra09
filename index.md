@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Avani Kabra's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+My favorite things about CS 193
+- Teaches important skills needed for a CS career that professors usually assume we know.
+- It is a student led class which helps us connect with upperclassmen who have been through the same journey as us
+- It is really fun!
 
 ### Markdown
 
